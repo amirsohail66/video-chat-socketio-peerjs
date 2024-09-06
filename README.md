@@ -18,10 +18,15 @@ This project is a video chat application built using Node.js, Express, Socket.io
 - Real-time video and audio communication
 - Simple and intuitive user interface
 
+## Live Demo
+
+You can try out the live version of this application at:
+
+[https://audio-video-chat.onrender.com](https://audio-video-chat.onrender.com)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-
 - You have installed Node.js and npm
 - You have a basic understanding of JavaScript and Node.js
 
@@ -31,22 +36,18 @@ Before you begin, ensure you have met the following requirements:
    ```
    git clone https://github.com/yourusername/video-chat-socketio-peerjs.git
    ```
-
 2. Navigate to the project directory:
    ```
    cd video-chat-socketio-peerjs
    ```
-
 3. Install the dependencies:
    ```
    npm install
    ```
-
 4. Start the server:
    ```
    npm start
    ```
-
 5. Open your web browser and visit `http://localhost:3000` (or the port you've configured)
 
 ## Usage
@@ -66,4 +67,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-If you have any questions or feedback, please open an issue in this repository of connect with me over email: sohail.bnh@gmail.com.
+If you have any questions or feedback, please open an issue in this repository or connect with me over email: sohail.bnh@gmail.com.
